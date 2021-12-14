@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17699142499",
+    "project_id": "udm-19-journalfirestorea-e2093",
+    "storage_bucket": "udm-19-journalfirestorea-e2093.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17699142499:android:41724f06dc20e9a2e2f156",
+        "android_client_info": {
+          "package_name": "com.example.udm_19journalfirestoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17699142499-1bujl1628m6et4h3cr0tr7hc1ptkad0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj-Ntkl62XrpPwdWLq_jkS3wr1HzRx3bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17699142499-1bujl1628m6et4h3cr0tr7hc1ptkad0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
